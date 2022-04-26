@@ -10,6 +10,8 @@
 &emsp;[Visible Images ](#index10)<br />
 &emsp;[Infrared Images ](#index11)<br />
 ### [Representative Models 经典模型](#index2)
+&emsp;[Models For Visible Images ](#index20)<br />
+&emsp;[Models For Infrared Images ](#index21)<br />
 
 <span id='index0'></span>
 ## Super-resolution Frameworks 超分辨框架
@@ -52,9 +54,17 @@
 
 <span id='index2'></span>
 ## Representative Models 经典模型
+
+<span id='index20'></span>
+### Models For Visible Images
 |Method|Publication|Keywords(Framkworks,  Upsampling Methods, Network Design, Learning Strategies)|
 |-|-|-|
 |[SRResNet](https://openaccess.thecvf.com/content_cvpr_2017/html/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.html)|2017, CVPR|Post-upsampling, Sub-pixel, Residual|
 |[SRGAN](https://openaccess.thecvf.com/content_cvpr_2017/html/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.html)|2017, CVPR||
 |[BSRGAN](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Designing_a_Practical_Degradation_Model_for_Deep_Blind_Image_Super-Resolution_ICCV_2021_paper.html?ref=https://githubhelp.com)|2021, ICCV|Blind SR, Complex Degradation Model, Random Shuffle|
 |[USRNet](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Deep_Unfolding_Network_for_Image_Super-Resolution_CVPR_2020_paper.html)|2020, SVPR|Integrating Model-based Method and Learning-based Method, Data Module + Prioe Module + Hyper-parameter Module|
+
+<span id='index21'></span>
+### Models For Infrared Images
+|Method|Publication|Keywords(Framkworks,  Upsampling Methods, Network Design, Learning Strategies)|
+|-|-|-|
