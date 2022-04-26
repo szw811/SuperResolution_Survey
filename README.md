@@ -51,6 +51,8 @@
 |-|-|-|-|-|
 |CVC-09|13184|640\*480|PNG|[Website](http://adas.cvc.uab.es/elektra/enigma-portfolio/item-1/)|
 |CVC-14|31962|640\*471, 64\*128|TIF|[Website](http://adas.cvc.uab.es/elektra/enigma-portfolio/cvc-14-visible-fir-day-night-pedestrian-sequence-dataset/)|
+|CVC-09-1K(Trainset For HetSRWGAN)|1000|640\*480|PNG|[Website](https://figshare.com/articles/dataset/HetSRWGAN-dataset/9862184/2)|
+|IR100(Trainset For PSRGAN)|100|640\*480|PNG|[Website](https://figshare.com/articles/dataset/PSRGAN/13359632/2)|
 
 <span id='index2'></span>
 ## Representative Models 经典模型
